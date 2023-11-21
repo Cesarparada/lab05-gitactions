@@ -20,6 +20,6 @@ jobs:
 
       - name: run tests
         run: |
-          # python -m unittest test_suma.py
-          # python -m unittest test_resta.py
+#         python -m unittest test_suma.py
+#         python -m unittest test_resta.py
           python -m unittest test_calcular.py
